@@ -36,3 +36,8 @@ ul {
 }
   h1 {
     border-bottom: none;
+  }
+}
+#article ol {
+  padding-left: 20px;
+}
